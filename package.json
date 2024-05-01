@@ -1,7 +1,7 @@
 {
   "name": "count_down_timer_byabeera201",
   "version": "1.0.0",
-  "description": "These are 2 countdowntimer firsty,I have created with the help of inquirer,chalk and nodemodules",
+  "description": "A timer is a device that measures time, especially one that is part of a machine and causes it to start or stop working at specific times These are 2 countdowntimer firsty,I have created with the help of inquirer,chalk and nodemodules",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
